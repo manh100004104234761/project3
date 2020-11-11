@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chown -R baoquanhan:www-data .
+chmod -R 777 .
